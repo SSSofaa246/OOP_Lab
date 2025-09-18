@@ -1,0 +1,6 @@
+C:/Dev/Laba1_Var6/build/CMakeFiles/censor_lib.dir
+C:/Dev/Laba1_Var6/build/CMakeFiles/censor.dir
+C:/Dev/Laba1_Var6/build/CMakeFiles/censor_tests.dir
+C:/Dev/Laba1_Var6/build/CMakeFiles/RUN_TESTS.dir
+C:/Dev/Laba1_Var6/build/CMakeFiles/ALL_BUILD.dir
+C:/Dev/Laba1_Var6/build/CMakeFiles/ZERO_CHECK.dir

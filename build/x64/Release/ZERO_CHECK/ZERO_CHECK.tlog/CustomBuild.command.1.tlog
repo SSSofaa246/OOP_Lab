@@ -1,0 +1,10 @@
+^C:\DEV\LABA1_VAR6\BUILD\CMAKEFILES\19F1E16F5D405D039AC0AD9F6C6B35AC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/Laba1_Var6 -BC:/Dev/Laba1_Var6/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Dev/Laba1_Var6/build/CensorApp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
